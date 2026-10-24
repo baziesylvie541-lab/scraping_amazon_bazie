@@ -62,6 +62,6 @@ Menu :
 
 - `data/ama.html` : copie de la page scrapée
 - `exports/produits.csv` : produits au format CSV
-- `exports/produits.xlsx` : produits au format Excel
+
 
 
